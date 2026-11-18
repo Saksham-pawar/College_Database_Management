@@ -178,7 +178,7 @@ SELECT fn_failed_subjects(1);
 ``` text
 College-Database-Management-System/
 │
-└── Project.sql
+└── College_Database.sql
 ```
 
 ## 🎯 Learning Objectives
